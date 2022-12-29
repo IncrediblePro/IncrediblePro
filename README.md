@@ -22,8 +22,8 @@
 
 # Stats:
 
-<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=IncrediblePro&theme=radical&stroke=fff"/>
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IncrediblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=fff"/>
+<img alt="GitHub Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=IncrediblePro&theme=radical&stroke=0ff"/>
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IncrediblePro&show_icons=true&theme=radical&title_color=00ffff&text_color=0ff"/>
 <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncrediblePro&layout=compact&hide_border=false&theme=radical&show_icons=true&bg_color=151415&text_color=fff&title_color=0ff" width=500 "/> 
   
 <br/>
