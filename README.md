@@ -8,6 +8,7 @@
 - 📫 You can reach me by my email-- [@IncrediblePro](mailto:rathod.bhavy77@gmail.com)
 - 🤠 My Bros [Dhyey Rathod](https://www.github.com/InvisiblePro) and [Popstar Idhant](https://www.github.com/Idhant-6) who helped me in my journey!... 
 - 🦸‍♂️ I'm ready to do any help required, such as designing any github profile, debugging python codes, and even can translate python and java files...
+- 🌐 Can reach me out on Discord -- 🅐🅝🅞🅝🅨🅜🅞🅤🅢#6401
 
 </h3>
 <br/>
